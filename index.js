@@ -1,5 +1,5 @@
 class Polygon {
   constructor(array) {
-    
+
   }
 }
